@@ -1,0 +1,14 @@
+{
+    "name": "Timeago",
+    "version": "1.0",
+    "desc": "",
+    "cover": "",
+    "tag":"timeago,time",
+    "author": {
+        "name": "凌恒",
+        "email": "jiakun.djk@alibaba-inc.com",
+        "page": ""
+    },
+    "type": "kissy-gallery",
+    "type-url": "http://gallery.kissyui.com/guide"
+}
